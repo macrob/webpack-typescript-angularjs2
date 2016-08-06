@@ -1,0 +1,12 @@
+{
+  "build": "dist/wbuild/",
+  "webpack":{
+    "host": "172.16.167.153",
+    "port": 5005
+  },
+  "lite-server":
+  {
+    "host": "172.16.167.153",
+    "port": 5006
+  }
+}

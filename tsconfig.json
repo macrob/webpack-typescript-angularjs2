@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+
+		"experimentalDecorators": true,
+		"noImplicitAny": true
+	},
+	"exclude": [
+		"node_modules",
+		"typings/index.d.ts",
+		"typings/index"
+	],
+	"awesomeTypescriptLoaderOptions": {
+		"forkChecker": true,
+		"useWebpackText": true
+	},
+	"compileOnSave": false,
+	"buildOnSave": false,
+	"atom": {
+		"rewriteTsconfig": false
+	}
+}
